@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.flex-1{
+    flex:1;
+}
+
+section.about  .about-me-image {
+  height: 450px;
+}
+
+.justify-center{
+    justify-content: center;
+}
